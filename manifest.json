@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "versions": [
+    {
+      "minecraftVersion": "26.2",
+      "displayName": "Hiro Client 26.2",
+      "loader": {
+        "kind": "fabric",
+        "version": "0.19.3"
+      },
+      "artifacts": [
+        {
+          "id": "hiroclient-v1_21",
+          "fileName": "v1_21.jar",
+          "url": "",
+          "sha1": "008a152ac5d8183f7c1e8dec131535a9430b6a7a",
+          "size": 136371721
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

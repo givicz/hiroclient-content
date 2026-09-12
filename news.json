@@ -1,0 +1,23 @@
+[
+  {
+    "id": 4,
+    "tag": "UPDATE",
+    "title": "Hiro Client 26.2",
+    "body": "Nejnovější Minecraft 26.2: Fabric 0.19.3, ViaFabricPlus 4.6.1, Voxy LOD na vanilla Vulkan a Lithium. Ve verzi je jeden nested jar — core už nestahuj zvlášť.",
+    "date": "2026-08-26"
+  },
+  {
+    "id": 3,
+    "tag": "UPDATE",
+    "title": "Client 1.21",
+    "body": "Entity culling a renderer optimalizace běží vždy na pozadí. Z ClickGUI zmizely zbytečné toggly, branding rendereru je pryč.",
+    "date": "2026-08-26"
+  },
+  {
+    "id": 1,
+    "tag": "UPDATE",
+    "title": "Client v2.1.0",
+    "body": "Reworked rendering stack, new crosshairs, SDF vector UI engine and improved Keystrokes module.",
+    "date": "2026-08-01"
+  }
+]
